@@ -1,0 +1,13 @@
+{
+    "Schools": true,
+    "Intake": true,
+    "Categories": true,
+    "SubCategories": true,
+    "Profile": true,
+    "Education": true,
+    "Score": true,
+    "Background": true,
+    "Document": true,
+    "Student": true,
+    "Dashboard": true
+}
